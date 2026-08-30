@@ -40,7 +40,7 @@
   "dependencies": {
     "fast-glob": "^3.3.2",
     "js-yaml": "^5.2.1",
-    "picomatch": "^4.0.5",
+    "picomatch": "^4.0.7",
     "zod": "^4.4.3"
   },
   "devDependencies": {
